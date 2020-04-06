@@ -1,5 +1,7 @@
 <template>
-  nodata 
+  <div>
+    nodata
+  </div> 
 </template>
 
 <script>

@@ -1,5 +1,7 @@
-<template>
-  serviceBar 
+<template>  
+  <div>
+    serviceBar
+  </div>
 </template>
 
 <script>

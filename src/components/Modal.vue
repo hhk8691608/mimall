@@ -1,5 +1,7 @@
 <template>
-  modal 
+  <div>
+    modl
+  </div> 
 </template>
 
 <script>

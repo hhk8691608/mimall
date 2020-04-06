@@ -1,5 +1,7 @@
 <template>
-  order
+  <div>
+    order
+  </div>
 </template>
 
 <script>
