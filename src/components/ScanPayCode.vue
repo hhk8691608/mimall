@@ -1,5 +1,7 @@
 <template>
-  scanPayCode 
+  <div>
+    scanPayCode
+  </div>
 </template>
 
 <script>

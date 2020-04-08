@@ -1,5 +1,7 @@
 <template>
-  productParam 
+ <div>
+    productParam
+  </div>
 </template>
 
 <script>

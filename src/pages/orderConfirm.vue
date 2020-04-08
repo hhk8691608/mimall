@@ -1,5 +1,7 @@
 <template>
-  orderConfirm
+  <div>
+    orderComfirm
+  </div>
 </template>
 
 <script>
